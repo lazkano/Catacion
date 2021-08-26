@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="Cafcom" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Catacion" ExtVersion="2.1.3" Contdata="" Partner="Cafcom" DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="" AddonSig="">
+        <Installation>
+          <Files />
+        </Installation>
+        <Uninstallation>
+          <Files />
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\Users\dos\Documents\Visual Studio 2015\Projects\addonpruebaCatacion\addonprueba\bin\x64\Debug\addonprueba.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="addonprueba.b1s">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.exe">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.exe.config">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.pdb">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.xml">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.CrystalReports.Design.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.CrystalReports.Engine.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.ReportSource.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.Shared.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.Windows.Forms.dll">
+              <Actions />
+            </File>
+            <File FileName="Log_INGRESO1920002006_21-05-2020-19-14-25.txt">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="stdole.dll">
+              <Actions />
+            </File>
+            <File FileName="xerces-c_3_1.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="addonprueba.b1s">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.exe">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.exe.config">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.pdb">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="addonprueba.xml">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.CrystalReports.Design.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.CrystalReports.Engine.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.ReportSource.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.Shared.dll">
+              <Actions />
+            </File>
+            <File FileName="CrystalDecisions.Windows.Forms.dll">
+              <Actions />
+            </File>
+            <File FileName="Log_INGRESO1920002006_21-05-2020-19-14-25.txt">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="stdole.dll">
+              <Actions />
+            </File>
+            <File FileName="xerces-c_3_1.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
